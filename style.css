@@ -212,7 +212,7 @@ section {
     transition: all 300ms ease;
 }
 .icon:hover {
-height: 2.5rem;
+height: 2.2rem;
 }
 
 /*  BUTTONS*/
@@ -303,10 +303,10 @@ background: none;
 
 }
 
-.details-container h3 {
+h3 {
     display: block;
     font-size: 1.17em;
-    margin-block-start: 1em;
+    margin-block-start: .22em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
@@ -424,4 +424,15 @@ position: relative;
 
 .email-icon {
     height: 2.5rem;
+}
+
+/*Footer*/
+
+footer {
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p {
+    text-align: center;
 }

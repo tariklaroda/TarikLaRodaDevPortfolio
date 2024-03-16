@@ -1,6 +1,6 @@
 # Tarik LaRoda's Software Development Portfolio
 
-This is a Portfolio webpage showcasing my software development work. It contains an experience section showcasing my familiarity with various programming languages and frontend/backend components. This portfolio also showcases 2 of my independent projects: a weather app and notes app.
+This is a Portfolio webpage showcasing my software development work. It contains an experience section showcasing my familiarity with various programming languages and frontend/backend tools. This portfolio also showcases 2 of my independent projects: a weather app and notes app.
 
 # Technologies used
 
